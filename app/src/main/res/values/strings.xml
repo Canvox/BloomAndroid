@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Bloom</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logoff">Cerrar sesión</string>
+    <string name="error_tag">ERROR</string>
+    <string name="afirmacion">Sí</string>
+    <string name="negacion">No</string>
+    <string name="salir_aplicacion">¿Desea salir de la aplicación?</string>
+    <string name="salir_quizz">¿Desea salir del quizz? Al hacerlo perderá todas sus respuestas.</string>
+    <string name="salir_crear_quizz">¿Desea cancelar la creación del quizz? Al hacerlo perderá las preguntas y respuestasya ingresadas.</string>
+    <string name="prompt_nuevo_curso">¿Desea unirse a este curso?</string>
+    <string name="no_conexion">No se detectó conexión a Internet. Verifique su conexión.</string>
+    <string name="salir">Salir</string>
+    <string name="aceptarn">Aceptar</string>
+    <string name="error_descarga">Su solicitud no produjo resultados.</string>
+    <string name="error_temas">No ha agregado temas al curso.</string>
+    <string name="error_subida">Ha ocurrido un error al enviar la solicitud.</string>
+
+    <string name="title_registrar">Registrar</string>
+
+    <string name="hint_user">usuario</string>
+    <string name="hint_password">contraseña</string>
+    <string name="hint_names">nombres</string>
+    <string name="hint_surnames">apellidos</string>
+    <string name="hint_codigo">usuario</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_titulo_quizz">Título del quizz</string>
+    <string name="hint_titulo_tema">Título del tema</string>
+    <string name="hint_respuesta">Escriba la respuesta</string>
+    <string name="hint_fecha">Fecha del evento</string>
+    <string name="hint_evento">Temática del evento</string>
+    <string name="hint_caption">Nombre de la imagen</string>
+
+    <string name="label_faculty">Facultad:&#160;</string>
+    <string name="label_career">Carrera:&#160;</string>
+
+    <string name="error_field_required">Debe llenar todos los campos requeridos.</string>
+
+    <string name="message_registro_success">Se ha registrado exitosamente.</string>
+    <string name="message_registro_failure">Ha ocurrido un error al registrarse.</string>
+    <string name="message_login_success">Ha iniciado sesión exitosamente.</string>
+    <string name="message_login_failure">Ha ocurrido un error al iniciar sesión. Asegúrese de haber ingresado las credenciales correctas.</string>
+    <string name="message_quiz_finished">Ha finalizado la prueba exitosamente.</string>
+    <string name="message_title_quizz_required">Se requiere un título para el quizz.</string>
+    <string name="message_quizz_creation_success">El quizz ha sido creado exitosamente.</string>
+    <string name="message_two_answers">Cada pregunta debe tener al menos dos respuestas.</string>
+    <string name="message_borrar_tema">¿Desea borrar este tema?</string>
+    <string name="message_borrar_tema_success">Tema borrado exitosamente</string>
+    <string name="message_crear_tema_success">Tema agregado exitosamente</string>
+    <string name="message_crear_apunte_success">Apunte agregado exitosamente</string>
+    <string name="message_moderador_needed">Debe seleccionar a alguien como moderador.</string>
+    <string name="message_moderador_success">Moderador seleccionado exitosamente</string>
+    <string name="message_respuesta_success">Respuesta guardada exitosamente</string>
+    <string name="message_pregunta_success">Pregunta guardada exitosamente</string>
+    <string name="message_imagen_success">Imagen guardada exitosamente</string>
+    <string name="message_imagen_failure">Ocurrió un error al subir la imagen.</string>
+    <string name="message_apuntes_empty">No hay apuntes disponibles, agregue el primero.</string>
+    <string name="message_eventos_empty">No hay eventos disponibles, agregue el primero.</string>
+    <string name="message_imagenes_empty">No hay imágenes disponibles, agregue la primera.</string>
+    <string name="message_cursos_empty">No se ha unido a ningún curso, seleccione uno.</string>
+    <string name="message_unirse_cursos_empty">No hay cursos disponibles para unirse.</string>
+    <string name="message_crear_evento_success">Evento agregado exitosamente</string>
+    <string name="message_image_not_selected">Debe elegir una imagen primero.</string>
+    <string name="message_image_sent">La imagen fue subida exitosamente.</string>
+
+
+    <string name="escoja_respuesta">Escoja su(s) respuesta(s)</string>
+    <string name="texview_crear_quizz1">¿De qué trata el quizz?</string>
+    <string name="texview_crear_quizz2">¿Cuál es el tema del quizz?</string>
+    <string name="texview_crear_pregunta1">Ingrese una pregunta:</string>
+    <string name="texview_crear_pregunta2">Ingrese el valor de la pregunta:&#160;</string>
+    <string name="texview_crear_respuesta">¿Es correcta la respuesta?&#160;</string>
+    <string name="texview_agregar_tema">Agregar nuevo tema</string>
+    <string name="texview_quizz_resuelto">Quizz resuelto</string>
+    <string name="texview_puntaje">PUNTAJE</string>
+    <string name="texview_descripcion_apunte">Descripcion</string>
+
+    <string name="texview_cabecera_estadisticas">Estadísticas de uso</string>
+    <string name="texview_cabecera_historial_quizzes">Historial Quizzes</string>
+    <string name="texview_cabecera_historial_temas">Historial Temas</string>
+    <string name="texview_cabecera_eventos">Eventos</string>
+    <string name="texview_cabecera_eventos_crear">Nuevo evento</string>
+    <string name="texview_cabecera_apuntes">Apuntes</string>
+    <string name="texview_cabecera_apuntes_crear">Nuevo apunte</string>
+    <string name="texview_cabecera_moderador">Miembros de curso</string>
+    <string name="texview_cabecera_unirse">Unirse a un nuevo curso</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
